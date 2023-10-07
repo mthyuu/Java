@@ -7,4 +7,4 @@ The code is organized in their respective assignment folders
 - With a search of the requested student's name, their pertinent information will come up 
 
 ## Assignment 3
--
+- This assignment takes in varying information about each specific applicant, and maintains their information in a queue, also regarding their initial request
