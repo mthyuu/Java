@@ -68,12 +68,12 @@ public class Question3 extends Throwable{
 
         for (int i=0;i< gus.length;i++){
             //checks to see if corresponding letter in answer and guess match
-            //if so, adds one bull
+            //if so, adds one dog
             if (gus[i] == march.get(i)){
                 dogs++;
             }
             //checks to see if any letters of guess is contained within the answer
-            //if so, adds one cow
+            //if so, adds one cat
             else if (march.contains(gus[i])){
                 cats++;
             }
