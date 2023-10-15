@@ -8,3 +8,6 @@ The code is organized in their respective assignment folders
 
 ## Assignment 3
 - This assignment takes in varying information about each specific applicant, and maintains their information in a queue, also regarding their initial request
+
+## Assignment 1
+- This assignment creates 4 preset hands of poker for two players, and then generates two hands randomly from a standard 52-card deck, displaying the most-valued hand for both players.
