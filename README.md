@@ -7,7 +7,7 @@ The code is organized in their respective assignment folders
 - For each guess, there will be a certain # of Dogs and Cats
 - Dogs represent letters that are in the word and in the proper spot, while cats are merely letters in the word, but out of place
 - Once completed the first time around, the answer can be changed for another round if the users wish to do so
-- This assignment is very heavily tweaked by me, and the original is much more barebones, with less replayability and ease of use  
+- I've heavily tweaked this assignment, and the original concept is much more barebones— containing less replayability and QOL  
 
 ## Assignment 7
 - This assignment uses a 1001 line csv sheet to maintain grades for various quizzes and exam scores of 1001 students
